@@ -1,10 +1,10 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *CryptoTicker*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ahnaf Talukder**
 
-This web app: **insert description**
+This web app: **Shows the top 10 hottest coins at the moment. **
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -36,19 +36,17 @@ Here's a walkthrough of implemented user stories:
 <img src='./walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+It was very difficult trying to load all that data at once so I had to shorten it to only 10. Unfortunately, I didn't have any time left to create a better looking UI because I am under a time-crunch. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ahnaf Talukder]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
